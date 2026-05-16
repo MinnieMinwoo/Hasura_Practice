@@ -1,2 +1,13 @@
-/AGENTS.md
-/INFORMATION.md
+# Dependencies
+nuxt-app/node_modules/
+
+# Nuxt build
+nuxt-app/.nuxt/
+nuxt-app/.output/
+
+# Docs (local only)
+*.md
+
+# Env
+.env
+*.local
